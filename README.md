@@ -1,1 +1,1 @@
-# SDE_JavaScript_githuib
+# SDE_JavaScript_github
